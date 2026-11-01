@@ -57,5 +57,5 @@ GROQ_API_KEY=your_api_key
 
 > **NotePilot — Upload your notes. Ask questions. Study smarter.**
 > Live URLs
-Frontend:https://notepilot.streamlit.app/
+Frontend:https://notepiolet.streamlit.app/
 
