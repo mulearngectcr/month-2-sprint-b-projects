@@ -1,0 +1,9 @@
+fastapi==0.165.0
+uvicorn==0.54.0
+python-multipart==0.0.34
+chromadb==1.5.9
+pypdf==7.1.1
+groq==1.7.0
+python-dotenv==1.2.4
+streamlit==1.67.0
+requests==2.34.2
